@@ -5,8 +5,6 @@ This is an anonymous repo for paper "CogMath: Assessing LLMs' Authentic Mathemat
 ### Environment
 * OS: CentOS Linux release 7.7.1908
 * CPU: 15 vCPU Intel(R) Xeon(R) Platinum 8358P CPU @ 2.60GHz
-* GPU: NVIDIA RTX 3090 GPUs
-* CUDA: 11.1
 
 ### Example of Dimension 1 in CogMath
 ```shell
