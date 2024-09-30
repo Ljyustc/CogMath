@@ -10,7 +10,7 @@ This is an anonymous repo for paper "CogMath: Assessing LLMs' Authentic Mathemat
 
 ### Example of Dimension 1 in CogMath
 ```shell
-Dimension1\GSM8K_MATH.json: inquies q1 stored under the name "new_question".
+Dimension1\GSM8K_MATH.json: inquiries q1 stored under the name "new_question".
 Dimension1\demo_dimension1.py: the workflow of Dimension 1 in CogMath.
 ```
 
