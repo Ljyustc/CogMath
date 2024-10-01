@@ -1,6 +1,6 @@
-### CogMath: Evaluating LLMs' Authentic Mathematical Ability from a cognitive perspective
+### CogMath: Evaluating LLMs' Authentic Mathematical Ability from a Cognitive Perspective
 
-This is an anonymous repo for paper "CogMath: Evaluating LLMs' Authentic Mathematical Ability from a cognitive perspective".
+This is an anonymous repo for paper "CogMath: Evaluating LLMs' Authentic Mathematical Ability from a Cognitive Perspective".
 
 ### Environment
 * OS: CentOS Linux release 7.7.1908
