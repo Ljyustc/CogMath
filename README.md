@@ -9,7 +9,7 @@ This is the repo for paper ["CogMath: Assessing LLMs' Authentic Mathematical Abi
 - [`GSM8K.json`](GSM8K.json)
 - [`MExam.json`](MExam.json)
 
-In each dataset, `ori_question` and `ori_answer` represent the original question and answer from the source dataset. For each evaluation dimension (from `Dimension 1` to `Dimension 9`), `inquiry` refers to the specific query designed for that dimension, and `inquiry_answer` is the corresponding answer.
+In each dataset, `ori_question` and `ori_answer` represent the original question and answer from the source dataset. For each evaluation dimension (from `Dimension 1` to `Dimension 9`), `inquiry` refers to the specific query designed for that dimension, and `inquiry_answer` is the corresponding answer. For `Dimension` 1 and `Dimension 4`, the expected `inquiry_answer` is the `original answer`. For `Dimension 2` and `Dimension 3`, since they are based on a counterfactual setting, the expected response is "unsolvable".
 
 ## CogMath Evaluation Results
 | Model                |   MATH   |  GSM8K   |  MExam   |
