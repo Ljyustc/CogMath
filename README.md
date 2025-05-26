@@ -28,11 +28,15 @@ For `Dimension 1` and `Dimension 4`, the expected answer to the `inquiry` is the
 
 - Performance (*Pass Rate*) at each dimension
 
-![](pic/dimension_performance.png)
+<div align="center">
+  <img src="pic/dimension_performance.png" alt="Dimensional Performance" width="600"/>
+</div>
 
 - Performance (*Pass Rate*) across different problem difficulties and lengths
 
-<img src="pic/problem_performance.png" alt="Problem Performance" width="400"/>
+<div align="center">
+  <img src="pic/problem_performance.png" alt="Problem Performance" width="600"/>
+</div>
 
 ## Reference
 If you find this repository helpful, please cite our paper.
