@@ -3,6 +3,7 @@
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)](https://github.com/Ljyustc/CogMath/blob/main/LICENSE/DATA_LICENSE)
 
 This is the repo for paper ["CogMath: Assessing LLMs' Authentic Mathematical Ability from a Human Cognitive Perspective" (ICML'2025)]
+![An overview of CogMath.](pic/framework.png)
 
 ## CogMath Evaluation Datasets
 - [`MATH.json`](MATH.json) 
@@ -24,6 +25,14 @@ For `Dimension 1` and `Dimension 4`, the expected answer to the `inquiry` is the
 | GPT-4                |   39.3   |   67.1   |  36.4    |
 | DeepSeek-V2.5        |   36.8   |   64.6   |   34.2   |
 | DeepSeek-R1          |   44.8   |   70.3   |    -     |
+
+- Performance (*Pass Rate*) at each dimension
+
+![](pic/dimension_performance.png)
+
+- Performance (*Pass Rate*) across different problem difficulties and lengths
+
+![](pic/problem_performance.png)
 
 ## Reference
 If you find this repository helpful, please cite our paper.
