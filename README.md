@@ -32,7 +32,7 @@ For `Dimension 1` and `Dimension 4`, the expected answer to the `inquiry` is the
 
 - Performance (*Pass Rate*) across different problem difficulties and lengths
 
-![](pic/problem_performance.png)
+<img src="pic/problem_performance.png" alt="Problem Performance" width="400"/>
 
 ## Reference
 If you find this repository helpful, please cite our paper.
