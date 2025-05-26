@@ -28,10 +28,10 @@ For `Dimension 1` and `Dimension 4`, the expected answer to the `inquiry` is the
 ## Reference
 If you find this repository helpful, please cite our paper.
 ```
-@article{liu2025cogmath,
+@inproceedings{liu2025cogmath,
   title={CogMath: Assessing LLMs' Authentic Mathematical Ability from a Human Cognitive Perspective},
   author={Liu, Jiayu and Huang, Zhenya and Dai, Wei and Cheng, Cheng and Wu, Jinze and Sha, Jing and Li, Song and Liu, Qi and Wang, Shijin and Chen, Enhong},
-  journal={Proceedings of the 42nd International Conference on Machine Learning},
+  booktitle={Proceedings of the 42nd International Conference on Machine Learning},
   year={2025}
 }
 ```
